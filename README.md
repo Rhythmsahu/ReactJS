@@ -1,2 +1,0 @@
-# ReactJS
-React projects
